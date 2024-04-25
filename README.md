@@ -7,7 +7,7 @@ Aplicação front-end desenvolvida com objetivo de realizar operações cambiais
 ## Autores
 
 - [@oVirtuo](https://github.com/oVirtuo) RA: 12523171336
-- [@WelberLopes](https://github.com/WelberLopes) RA: 
+- [@WelberLopes](https://github.com/WelberLopes) RA: 12723110547
 
 
 ## Requisitos do sistema
